@@ -16,6 +16,3 @@ Open the Jupyter Notebook file titanic.ipynb.<br>
 Run the code cells in the notebook to train the model and make predictions.<br>
 The final cells of the notebook will show the model's accuracy in predicting the survival of Titanic passengers<b>.
 
-# Acknowledgments
-
-This project was inspired by the Kaggle Titanic challenge and was implemented using Python and Jupyter Notebook. The dataset used for this project was obtained from Kaggle.
